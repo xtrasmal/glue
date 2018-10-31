@@ -1,2 +1,2 @@
 # Glue™
-Glue, a php framework build out of php league packages 
+Glue, a php framework build out of php league packages and javascript
